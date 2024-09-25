@@ -3,7 +3,7 @@ import pandas as pd  # Biblioteca de manipulação de dados  em python pra ler a
 import plotly.express as px # Biblioteca para construir os graficos 
 
 
-""" Pra cria o Deshborards tem que entra no terminal coloca o (streamlit run deshboards.py ou nome da pasta e clik enter e vai pedi pra bota o email e coloca e da enter que vai abrir) """
+""" Pra cria o Deshboards tem que entra no terminal coloca o (streamlit run deshboards.py ou nome da pasta e clik enter e vai pedi pra bota o email e coloca e da enter que vai abrir) """
 
 
 st.set_page_config(layout="wide") # Almenta a tabela do espaço horiontal 
